@@ -69,7 +69,8 @@
   <br/>
   <i>🚀 Let's build something great together! 🚀</i>
   <br/>
-  <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:6529c879-d3e8-4fbe-998d-377af5e9b191">Volunteering & Other Diplomas</a>
+  <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:1230592b-05ab-4874-9376-f1c8bbd8de4f">Volunteering & Other Diplomas</a>
+  <a href="https://www.overleaf.com/read/ykshmhgnjxqm#e6e6c8">Curriculum Vitae</a>
 </p>
 
 
