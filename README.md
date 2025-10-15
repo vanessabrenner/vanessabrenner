@@ -29,7 +29,7 @@
 
 | 🏢 Organization | 🧠 Role / Position | 🕒 Period | 🔍 Description |
 |-----------------|-------------------|-----------|----------------|
-| **8x8 Software Engineering Internship Program (Summer 2025), Cluj-Napoca** | **Software Engineer Intern** | *21 Jul 2025 – 26 Sep 2025* | Configured a real-world project to integrate development tools and workflows, improving build efficiency and code quality. Built the foundation of a new REST API microservice using **Spring Boot** and **Elasticsearch** |
+| **8x8 Software Engineering Internship Program, Cluj-Napoca** | **Software Engineer Intern** | *21 Jul 2025 – 26 Sep 2025* | Configured a real-world project to integrate development tools and workflows, improving build efficiency and code quality. Built the foundation of a new REST API microservice using **Spring Boot** and **Elasticsearch** |
 
 </div>
 
