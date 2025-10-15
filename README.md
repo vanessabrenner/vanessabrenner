@@ -16,12 +16,22 @@
 </p>
 
 <p align="center">
-  🚀 I’m a Computer Science student at <strong>Babeș-Bolyai University, Cluj-Napoca</strong> (2022-2025), passionate about coding and problem-solving. I enjoy working on projects that challenge me to learn and grow.
+  🚀 I’m a Master's student in Computer Science at <strong>Babeș-Bolyai University, Cluj-Napoca</strong> (2025–2027), specializing in <strong>High Performance Computing and Big Data Analytics</strong>. I’m passionate about coding and problem-solving, and I enjoy working on projects that challenge me to learn and grow.
 </p>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B0ZGs3NHdoYWEycW9yemZmZXNuM2Nxd3c2YXJuazM5bGFrcWt1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="400">
 </p>
+
+<h2 align="center">💼 Experience</h2>
+
+<div align="center">
+
+| 🏢 Organization | 🧠 Role / Position | 🕒 Period | 🔍 Description |
+|-----------------|-------------------|-----------|----------------|
+| **8x8 Software Engineering Internship Program (Summer 2025), Cluj-Napoca** | **Software Engineer Intern** | *21 Jul 2025 – 26 Sep 2025* | Configured a real-world project to integrate development tools and workflows, improving build efficiency and code quality. Built the foundation of a new REST API microservice using **Spring Boot** and **Elasticsearch** |
+
+</div>
 
 
 <h2 align="center">📌 Programming Languages</h2>
@@ -48,6 +58,13 @@
   <img src="https://img.shields.io/badge/Jupyter-FA8C16?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Maple-FF5733?style=for-the-badge" />
 </p>
+
+<h2 align="center">⚙️ Frameworks & Technologies</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+</p>
+
 
 
 <div align="center">
